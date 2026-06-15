@@ -9,7 +9,7 @@ import java.util.concurrent.TimeUnit;
 public class GeminiService {
     public static String askGemini(String prompt) throws Exception {
 
-        String apiKey = "AIzaSyBIUOlNOOJp8rzPZa7KDYqoJC5U08hZTI8";//System.getenv("GEMINI_API_KEY");
+        String apiKey = System.getenv("GEMINI_API_KEY");
 
 
         // initialisation
