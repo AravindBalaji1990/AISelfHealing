@@ -1,4 +1,4 @@
-Project: Gemini Service (inside FirstScriptAndroidAppium)
+Project: Gemini Service 
 ===============================================
 
 Overview
